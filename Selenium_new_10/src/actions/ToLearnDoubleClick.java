@@ -20,5 +20,6 @@ public class ToLearnDoubleClick {
 		
 		Actions act=new Actions(driver);
 		act.doubleClick(yesBtn).perform();
+		act.doubleClick(yesBtn).perform();
 	}
 }
